@@ -1,12 +1,23 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+   - title: "categories"
+     url: /categories/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+_posts:
+  - title: 자료구조
+    children:
+      - title: "Stack&Queue"
+        url: /자료구조/자료구조-Stack&Queue
+
+  - title: 네트워크
+    children:
+    - title: "네트워크란"
+      url: #asdad
