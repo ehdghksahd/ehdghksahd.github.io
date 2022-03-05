@@ -14,8 +14,8 @@ main:
 _posts:
   - title: 자료구조
     children:
-      - title: "Stack&Queue"
-        url: /자료구조/자료구조-Stack&Queue
+      - title: "Stack과Queue"
+        url: /자료구조/자료구조-Stack과Queue
 
   - title: 네트워크
     children:
