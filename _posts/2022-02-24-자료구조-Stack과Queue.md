@@ -1,11 +1,11 @@
 ---
-title: "Stack 과 Queue"
+title: "Stack과Queue"
 categories:
   - 자료구조
 tags:
   - stack
   - queue
-toc_label: Stack&Queue
+toc_label: Stack과Queue
 ---
 
 # 스택(stack)  
